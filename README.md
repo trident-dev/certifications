@@ -1,6 +1,6 @@
 # Certifications | [Devang Upadhyay](https://www.linkedin.com/in/devangupadhyay/) | 4th Year UG, IIT KGP
 
-![](/home/trident/Certifications/Images/Coursera.png)
+![](Images/Coursera.png)
 
 ## Analytics & Technology
 
