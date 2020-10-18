@@ -21,6 +21,15 @@
 - [Natural Language Processing in TensorFlow](https://coursera.org/share/cdcf7248bdacda7f02c0b92c62cde42d)
 - [Sequences, Time Series and Prediction](https://coursera.org/share/e1883bd27550754e4921d4a973b27482)
 
+### Data Structures and Algorithms [6 courses] [univeristy of California San Diego]
+
+- [Algorithmic Toolbox](https://www.coursera.org/account/accomplishments/verify/P2HYRSPSDLN9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- [Data Structures](https://coursera.org/share/ceb47e49bb80bd1316f3add81cba7af7)
+- [Algorithms on Graphs]() *ongoing*
+- [Algorithms on Strings]() *ongoing*
+- [Advanced Algorithms and COmplexity]() *ongoing*
+- [Genome Assembly Programming Challenge]() *ongoing*
+
 ### Analytic Techniques for Business [5 courses] [Duke University] *ongoing*
 
 - [Business Metrics for Data-Driven Companies](https://coursera.org/share/1f8359af5cec42a921496678214efbae)
